@@ -90,7 +90,7 @@ namespace forloop
             //Övn6
             Console.Write("Mata in ett tal: ");
             double tal = double.Parse(Console.ReadLine());
-            for (double i = 0; i <= tal; i++) 
+            for (double i = 0; i <= tal; i++)
             {
                 if (i*i*i == tal)
                 {
